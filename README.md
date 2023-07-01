@@ -1,2 +1,4 @@
-# Machine-Learn
-Even though the name is very vague, what the AI itself does is specific. Right now, All it can do is tell the popularity and information about Video Games.
+# Brake
+Brake is a Machine-learning based AI that hopefully will work.
+## What is AI?
+AI stands for Artificial Intelligence and essentially tries to mimic human thought and speech. More information can be found at Wikipedia or other sites.
