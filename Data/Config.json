@@ -1,6 +1,6 @@
 root":{19 items
 "architectures":[1 item
-0:string"T5ForConditionalGeneration"
+0:string"Data.ipynb"
 ]
 "d_ff":int2048
 "d_kv":int64
