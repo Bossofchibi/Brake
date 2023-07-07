@@ -1,0 +1,28 @@
+root":{19 items
+"architectures":[1 item
+0:string"T5ForConditionalGeneration"
+]
+"d_ff":int2048
+"d_kv":int64
+"d_model":int512
+"decoder_start_token_id":int0
+"dropout_rate":float0.1
+"eos_token_id":int1
+"initializer_factor":int1
+"is_encoder_decoder":booltrue
+"layer_norm_epsilon":float0.000001
+"model_type":string"t5"
+"n_positions":int512
+"num_heads":int8
+"num_layers":int6
+"output_past":booltrue
+"pad_token_id":int0
+"relative_attention_num_buckets":int32
+"task_specific_params":{4 items
+"summarization":{...}7 items
+"translation_en_to_de":{...}4 items
+"translation_en_to_fr":{...}4 items
+"translation_en_to_ro":{...}4 items
+}
+"vocab_size":int32128
+}
